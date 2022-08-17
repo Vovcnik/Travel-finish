@@ -2282,6 +2282,7 @@ select,
       -ms-flex: 0 0 128px;
           flex: 0 0 128px;
   margin: 0;
+  white-space: nowrap;
 }
 
 .galelery__title {
